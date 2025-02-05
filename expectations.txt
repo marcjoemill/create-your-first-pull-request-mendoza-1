@@ -6,3 +6,5 @@ First and foremost, I hope that through CMSC 100, I can fully master the use of 
 I also expect to learn many skills related to web development. 
 Right now, I only have little experience on frontend development. 
 However, I hope that I can fully master full stack development by the end of this semester.
+
+Likewise (Amistoso)
