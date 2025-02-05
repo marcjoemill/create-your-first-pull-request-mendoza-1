@@ -1,1 +1,8 @@
-First and foremost, I hope that through CMSC 100, I can fully master the use of Git and GitHub. I also expect to learn many skills related to web development,
+Marc Joemil Mendoza
+2023-13729
+CMSC 100 U3L
+
+First and foremost, I hope that through CMSC 100, I can fully master the use of Git and GitHub. 
+I also expect to learn many skills related to web development. 
+Right now, I only have little experience on frontend development. 
+However, I hope that I can fully master full stack development by the end of this semester.
